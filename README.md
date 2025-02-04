@@ -1,43 +1,117 @@
-# AI Playstore Repository
+<!-- <style>h1,h2,h3,h4 { border-bottom: 0; } </style> -->
+<h1 style="text-align:center;">🎠 AI Playstore</h1>
 
-Welcome to the AI Playstore! This repository serves two main purposes:
-1. Collecting powerful AI agents - including AI companions, toys, content generators, and assistants that you can interact with.
-2. Showcasing remarkable AI-generated creative content - including movies, novels, and games created by artificial intelligence.
-
-## Repository Structure
+<!-- ## Repository Structure
 
 The repository is organized into the following sections:
 - **AI Agents**: Explore interactive AI tools and applications like chatbots, virtual assistants, AI toys, and content generation tools.
 - **AI Movies**: Discover movies that are fully or partially created using AI technologies (scripts, visuals, editing, etc.).
 - **AI Novels**: Dive into literature written or co-written by AI language models.
-- **AI Games**: Investigate games that are procedurally generated or developed using AI technologies.
+- **AI Games**: Investigate games that are procedurally generated or developed using AI technologies. -->
 
-Each section is detailed in its respective sub-README file, linked below:
+Welcome to AI Playstore! 
 
-- [AI Agents](./ai_agents/README.md)
-- [AI Movies](./ai_movies/README.md)
-- [AI Novels](./ai_novels/README.md)
-- [AI Games](./ai_games/README.md)
+We are a community of AI enthusiasts who collect, curate and evaluate AI agents, games, toys and more.
 
-## Total Statistics
+Checkout each section below to find out more:
 
-Here's a snapshot of the total number of entries in each section, along with their top-ranked items:
+<div style="text-align: center;">
+<a href="#ai-agents">🤖 AI Agents</a> | 
+<!-- <a href="#ai-movies">AI Movies</a> | 
+<a href="#ai-novels">AI Novels</a> |  -->
+<a href="#ai-games">👾 AI Games</a> |
+<a href="#ai-toys">🧸AI Toys</a>
+</div>
 
-- **AI Agents**: 20 entries
-  - Top Ranked: [ChatGPT](./ai_agents/chatgpt.md)
-  - Categories: Language Models, Task Automation, Creative Assistants
-  
-- **AI Movies**: 15 entries
-  - Top Ranked: [AI-Generated Short Film](./ai_movies/ai_short_film.md)
-  - Categories: AI-Generated Scripts, AI Visual Effects, AI-Edited Content
-  
-- **AI Novels**: 25 entries
-  - Top Ranked: [AI Novel Title](./ai_novels/ai_novel.md)
-  - Categories: GPT-Generated, AI-Human Collaboration, AI Poetry
-  
-- **AI Games**: 10 entries
-  - Top Ranked: [AI Dungeon](./ai_games/ai_dungeon.md)
-  - Categories: Procedurally Generated, AI-Driven Narratives, Dynamic Content
+<h2 id="ai-agents">🤖 AI Agents</h2>
+
+### [ChatGPT](./ai_agents/README.md#chatgpt)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [OpenAI](https://openai.com)
+- Release Date: November 2022
+- Key Features: Natural language processing, contextual understanding, versatile applications
+- Rating: 5/5
+</details>
+
+### [Claude](./ai_agents/README.md#claude)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [Anthropic](https://anthropic.com)
+- Release Date: March 2023
+- Key Features: Constitutional AI, detailed analysis, coding assistance
+- Rating: 4.8/5
+</details>
+
+### [Gemini](./ai_agents/README.md#gemini)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [Google](https://google.com)
+- Release Date: December 2023
+- Key Features: Multimodal capabilities, advanced reasoning
+- Rating: 4.7/5
+</details>
+
+<h2 id="ai-games">👾 AI Games</h2>
+
+### [AI Dungeon](./ai_games/README.md#ai-dungeon)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [Latitude](https://latitude.com)
+- Release Year: 2019
+- Key Features: GPT-powered narrative generation, dynamic storytelling, infinite possibilities
+- Rating: 5/5
+</details>
+
+### [ANGELINA's Games](./ai_games/README.md#angelina_games)
+
+<details>
+<summary>View Details</summary> 
+
+- Developer: [ANGELINA AI](https://angelina.ai)
+- Release Year: 2018
+- Key Features: Fully AI-designed levels, procedural content generation
+- Rating: 4.8/5
+</details>  
+
+### [Neural MMO](./ai_games/README.md#neural_mmo)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [OpenAI](https://openai.com)
+- Release Year: 2021
+- Key Features: AI-generated worlds, emergent gameplay, adaptive difficulty
+- Rating: 4.7/5
+</details>
+
+
+    
+<h2 id="ai-toys">🧸 AI Toys</h2>
+
+### [Hey Curio](./ai_toys/README.md#heycurio)
+
+<details>
+<summary>View Details</summary>
+
+- Developer: [Hey Curio](https://heycurio.com/)
+- Release Year: 2024
+- Key Features: 
+- Rating: 5/5
+</details>
+
+
+
+
+
 
 ## How to Contribute
 
@@ -58,14 +132,6 @@ Each entry is evaluated based on:
 - Technical Innovation
 - User/Critical Reception
 - Impact on AI Creative Field
-
-## References
-
-For more detailed information on each category, please refer to the respective sub-README files:
-- [AI Agents Detailed List](./ai_agents/README.md)
-- [AI Movies Detailed List](./ai_movies/README.md)
-- [AI Novels Detailed List](./ai_novels/README.md)
-- [AI Games Detailed List](./ai_games/README.md)
 
 ## License
 
