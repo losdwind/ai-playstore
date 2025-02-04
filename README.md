@@ -141,5 +141,5 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 
 We hope you enjoy exploring AI-generated creative works through our curated lists. Whether you're a developer, researcher, or enthusiast, there's something here for everyone interested in the future of AI-created content.
 
-[![Stars](https://img.shields.io/github/stars/yourusername/ai-playstore?style=social)](https://github.com/yourusername/ai-playstore)
-[![Forks](https://img.shields.io/github/forks/yourusername/ai-playstore?style=social)](https://github.com/yourusername/ai-playstore/fork)
+[![Stars](https://img.shields.io/github/stars/losdwind/ai-playstore?style=social)](https://github.com/yourusername/ai-playstore)
+[![Forks](https://img.shields.io/github/forks/losdwind/ai-playstore?style=social)](https://github.com/yourusername/ai-playstore/fork)
