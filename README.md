@@ -1,5 +1,15 @@
 <!-- <style>h1,h2,h3,h4 { border-bottom: 0; } </style> -->
-<h1 style="text-align:center;">🎠 AI Playstore</h1>
+<h1 align="center">
+	🎠 AI Playstore
+<!-- 	<p align="center">
+		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
+			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
+		</a>
+		<a href="https://twitter.com/e2b_dev" target="_blank">
+			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
+		</a>
+	</p> -->
+</h1>
 
 <!-- ## Repository Structure
 
@@ -9,13 +19,13 @@ The repository is organized into the following sections:
 - **AI Novels**: Dive into literature written or co-written by AI language models.
 - **AI Games**: Investigate games that are procedurally generated or developed using AI technologies. -->
 
-Welcome to AI Playstore! 
-
-We are a community of AI enthusiasts who collect, curate and evaluate AI agents, games, toys and more.
-
+<p align="center">
+Welcome to AI Playstore! <br>
+We are a community of AI enthusiasts who collect, curate and evaluate AI agents, games, toys and more. <br>
 Checkout each section below to find out more:
+</p>
 
-<div style="text-align: center;">
+<div align="center">
 <a href="#ai-agents">🤖 AI Agents</a> | 
 <!-- <a href="#ai-movies">AI Movies</a> | 
 <a href="#ai-novels">AI Novels</a> |  -->
