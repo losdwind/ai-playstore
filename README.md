@@ -4,18 +4,18 @@
 </h1>
 
 <p align="center">
-<b> Authentic AI Tools Reviews  | Discover Best AI Products </b>
+<b> Authentic Reviews to Help You Discover Best AI Products </b>
 </p>
 
-<!-- 	<p align="center">
-		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
-			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
-		</a>
-		<a href="https://twitter.com/e2b_dev" target="_blank">
-			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
-		</a>
-	</p> -->
-	
+<!-- <p align="center">
+	<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
+		<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
+	</a>
+	<a href="https://twitter.com/e2b_dev" target="_blank">
+		<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
+	</a>
+</p> -->
+
 > Our main site offers:
 🔍 Advanced Filters | ✍️ Community Ratings | 📝 User Experience Reports
 
@@ -23,111 +23,80 @@
 👉 <a href="https://losdwind.github.io/ai-playstore/">Visit Full Review Site</a>
 </p> -->
 
-
+🌑  🌕 🌖🌗🌘🌙
 ## 🚀 Quick Navigation
 
-[🤖 AI Agents](#ai-agents) | [👾 AI Games](#ai-games) | [💞 AI Companions](#ai-companions) | [🧸 AI Toys](#ai-toys) | [🎥 AI Movies](#ai-movies) | [📚 AI Novels](#ai-novels)
+[🤖 AI Agents](#ai-agents) | [👾 AI Games](#ai-games) | [💞 AI Characters](#ai-characters) | [🧸 AI Toys](#ai-toys) | [🎥 AI Movies](#ai-movies) | [📚 AI Novels](#ai-novels)
 
 <h2 id="ai-agents">🤖 AI Agents</h2>
 
-### [ChatGPT](./ai_agents/README.md#chatgpt)
+**Best AI Models and Agents**
 
-<details>
-<summary>View Details</summary>
+| Rating | Title                  | Highlights                          | Price |
+|--------|------------------------|-------------------------------------| ----- |
+| 🌕🌕🌕🌕🌕 | [*Gemini-2.0-pro*](https://gemini.google) | Multimodal capabilities, advanced reasoning | Paid |
+| 🌕🌕🌕🌕🌕 | [*DeepSeek-R1*](https://deepseek.com) | Free, visible reasoning process, code generation | Free |
+| 🌕🌕🌕🌕🌗 | [*Replit Agent*](https://replit.com) | Simplifies software development, lowers barriers for developers | Free-Trial |
+| 🌕🌕🌕🌕🌗 | [*Deep Research*](https://deepseek.com) | Detailed, verified answers on complex topics | Paid |
+| 🌕🌕🌕🌕🌗 | [*Claude-3.5-sonnet*](https://claude.ai) | Code generation, detailed analysis | Free |
+| 🌕🌕🌕🌕🌗 | [*Gemini-1.5-pro*](https://gemini.google) | Multimodal capabilities, advanced reasoning | Free |
+| 🌕🌕🌕🌕🌑 | [*Gemini-1.5-flash*](https://gemini.google) | Fast, efficient, and powerful | Free | 
+| 🌕🌕🌕🌑🌑 | [*ChatGPT-4o*](https://chatgpt.com) | Contextual understanding, versatile applications | Free |
 
-- Developer: [OpenAI](https://openai.com)
-- Release Date: November 2022
-- Key Features: Natural language processing, contextual understanding, versatile applications
-- Rating: 5/5
-</details>
-
-### [Claude](./ai_agents/README.md#claude)
-
-<details>
-<summary>View Details</summary>
-
-- Developer: [Anthropic](https://anthropic.com)
-- Release Date: March 2023
-- Key Features: Constitutional AI, detailed analysis, coding assistance
-- Rating: 4.8/5
-</details>
-
-### [Gemini](./ai_agents/README.md#gemini)
-
-<details>
-<summary>View Details</summary>
-
-- Developer: [Google](https://google.com)
-- Release Date: December 2023
-- Key Features: Multimodal capabilities, advanced reasoning
-- Rating: 4.7/5
-</details>
 
 <h2 id="ai-games">👾 AI Games</h2>
 
-### [AI Dungeon](./ai_games/README.md#ai-dungeon)
+**Best AI-Powered Games**
 
-<details>
-<summary>View Details</summary>
+| Rating | Title                  | Highlights                          | Price |	
+|--------|------------------------|-------------------------------------| ----- |
+| 🌕🌕🌕🌕🌕 | [*AI Town*](https://www.convex.dev/ai-town) | Virtual city where AI characters live, talk and interact | Free |
+| 🌕🌕🌕🌕🌗 | [*Hidden Door*](https://www.hiddendoor.co/) | An AI-driven RPG adventure game that generates creative stories | Paid |
+| 🌕🌕🌕🌕🌑 | [*AI Dungeon*](https://aidungeon.com/) | GPT-powered narrative generation, dynamic storytelling, infinite possibilities | Free |
+| 🌕🌕🌕🌕🌑 | [*Websim AI*](https://websim.ai) | Create websites, games, applications and more with AI | Free |
+| 🌕🌕🌕🌕🌑 | [*Dolores*](https://dolores.app/) | An AI girlfriend capable of memorizing your chat history, constantly improving, reflecting and evolving. Possibility of customization | Free |
 
-- Developer: [Latitude](https://latitude.com)
-- Release Year: 2019
-- Key Features: GPT-powered narrative generation, dynamic storytelling, infinite possibilities
-- Rating: 5/5
-</details>
 
-### [ANGELINA's Games](./ai_games/README.md#angelina_games)
 
-<details>
-<summary>View Details</summary> 
+<h2 id="ai-characters">💞 AI Characters</h2>
 
-- Developer: [ANGELINA AI](https://angelina.ai)
-- Release Year: 2018
-- Key Features: Fully AI-designed levels, procedural content generation
-- Rating: 4.8/5
-</details>  
+**AI-Generated Characters for Interaction**
 
-### [Neural MMO](./ai_games/README.md#neural_mmo)
-
-<details>
-<summary>View Details</summary>
-
-- Developer: [OpenAI](https://openai.com)
-- Release Year: 2021
-- Key Features: AI-generated worlds, emergent gameplay, adaptive difficulty
-- Rating: 4.7/5
-</details>
-
+| Rating | Title                  | Highlights                          | Price |
+|--------|------------------------|-------------------------------------| ----- |
+| 🌕🌕🌕🌕🌕 | [*Character AI*](https://character.ai) | Chat with your favorite characters and discover the new possibilities of AI | Freemium |
+| 🌕🌕🌕🌕🌗 | [*Janitor AI*](https://janitorai.com/login) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium |
+| 🌕🌕🌕🌕🌗 | [*Replika*](https://replika.ai) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium |
 
     
 <h2 id="ai-toys">🧸 AI Toys</h2>
 
-### [Hey Curio](./ai_toys/README.md#heycurio)
+**AI-Powered Toys for Kids**
 
-<details>
-<summary>View Details</summary>
-
-- Developer: [Hey Curio](https://heycurio.com/)
-- Release Year: 2024
-- Key Features: 
-- Rating: 5/5
-</details>
+| Rating | Title                  | Highlights                          | Price |
+|--------|------------------------|-------------------------------------| ----- |
+| 🌕🌕🌕🌕🌕 | [*Cozmo*](https://ankicozmorobot.com/) | A small robot with a big personality that can recognise faces and emotions, learn and adapt to its environment, and interact with its surroundings. | Paid |
+| 🌕🌕🌕🌕🌕 | [*ROYBI*](https://roybi.world) | An AI robot designed for kids that offers an interactive and personalised learning experience. | Paid |
+| 🌕🌕🌕🌕🌕 | [*Hey Curio*](https://heycurio.com/) | A platform that allows you to create your own AI characters and chat with them. | Paid |
 
 
+<h2 id="ai-movies"> 🎥 AI Movies </h2>
+
+**AI-Generated or AI-Assisted Films**
+
+| Rating | Title                  | Highlights                          | Price |
+|--------|------------------------|-------------------------------------| ----- |
+TBA
 
 
+<h2 id="ai-novels"> 📚 AI Novels </h2>
 
+**Top AI-Coauthored Literature**
 
-## How to Contribute
+| Rating | Title                  | Highlights                          | Price |
+|--------|------------------------|-------------------------------------| ----- |
+TBA
 
-We welcome contributions from the community! To add or modify content:
-
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/new-entry`)
-3. Make your changes
-4. Submit a pull request
-
-Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) for detailed submission requirements.
 
 ## Rating Criteria
 
