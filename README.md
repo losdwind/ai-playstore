@@ -1,6 +1,12 @@
 <!-- <style>h1,h2,h3,h4 { border-bottom: 0; } </style> -->
 <h1 align="center">
-	🎠 AI Playstore
+	🎠 AI Playstore 
+</h1>
+
+<p align="center">
+<b> Authentic AI Tools Reviews  | Discover Best AI Products </b>
+</p>
+
 <!-- 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
@@ -9,29 +15,18 @@
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p> -->
-</h1>
+	
+> Our main site offers:
+🔍 Advanced Filters | ✍️ Community Ratings | 📝 User Experience Reports
 
-<!-- ## Repository Structure
+<!-- <p align="center">
+👉 <a href="https://losdwind.github.io/ai-playstore/">Visit Full Review Site</a>
+</p> -->
 
-The repository is organized into the following sections:
-- **AI Agents**: Explore interactive AI tools and applications like chatbots, virtual assistants, AI toys, and content generation tools.
-- **AI Movies**: Discover movies that are fully or partially created using AI technologies (scripts, visuals, editing, etc.).
-- **AI Novels**: Dive into literature written or co-written by AI language models.
-- **AI Games**: Investigate games that are procedurally generated or developed using AI technologies. -->
 
-<p align="center">
-Welcome to AI Playstore! <br>
-We are a community of AI enthusiasts who collect, curate and evaluate AI agents, games, toys and more. <br>
-Checkout each section below to find out more:
-</p>
+## 🚀 Quick Navigation
 
-<div align="center">
-<a href="#ai-agents">🤖 AI Agents</a> | 
-<!-- <a href="#ai-movies">AI Movies</a> | 
-<a href="#ai-novels">AI Novels</a> |  -->
-<a href="#ai-games">👾 AI Games</a> |
-<a href="#ai-toys">🧸AI Toys</a>
-</div>
+[🤖 AI Agents](#ai-agents) | [👾 AI Games](#ai-games) | [💞 AI Companions](#ai-companions) | [🧸 AI Toys](#ai-toys) | [🎥 AI Movies](#ai-movies) | [📚 AI Novels](#ai-novels)
 
 <h2 id="ai-agents">🤖 AI Agents</h2>
 
