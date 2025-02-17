@@ -23,7 +23,6 @@
 👉 <a href="https://losdwind.github.io/ai-playstore/">Visit Full Review Site</a>
 </p> -->
 
-🌑  🌕 🌖🌗🌘🌙
 ## 🚀 Quick Navigation
 
 [🤖 AI Agents](#ai-agents) | [👾 AI Games](#ai-games) | [💞 AI Characters](#ai-characters) | [🧸 AI Toys](#ai-toys) | [🎥 AI Movies](#ai-movies) | [📚 AI Novels](#ai-novels)
