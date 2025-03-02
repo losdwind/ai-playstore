@@ -34,7 +34,7 @@
 ### 🤖 AI Agents
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
-| 9.5 | [DeepSeek-R1](https://deepseek.com) | Free, visible reasoning process, code generation | Free | [📄](./ai_agents/deepseek-r1.md) |
+| 83.73 | [DeepSeek-R1](https://deepseek.com) | Free, visible reasoning process, code generation | Free | [📄](./ai_agents/deepseek-r1.md) |
 
 
 ### 👾 AI Games
