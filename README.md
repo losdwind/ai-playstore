@@ -17,7 +17,7 @@
 </p> -->
 
 > Coming Soon!!! Our main site offers:
-🔍 Advanced Filters | ✍️ Community Ratings | 📝 User Experience Reports
+🔍 Advanced Filters | ✍️ Tech + User Experience Reports | 📝 Litepapers
 
 <!-- <p align="center">
 👉 <a href="https://losdwind.github.io/ai-playstore/">Visit Full Review Site</a>
@@ -47,9 +47,10 @@
 ### 💞 AI Characters
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
-| 9.5 | [*Character AI*](https://character.ai) | Chat with your favorite characters and discover the new possibilities of AI | Freemium | [📄](./ai_characters/character-ai.md)
-| 9.5 | [*Janitor AI*](https://janitorai.com/login) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium | [📄](./ai_characters/janitor-ai.md)	
-| 9.5 | [*Replika*](https://replika.ai) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium | [📄](./ai_characters/replika.md)
+| 75.5 | [*Replika*](https://replika.ai) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium | [📄](./ai_characters/replika.md)
+| 71.5 | [*Character AI*](https://character.ai) | Chat with your favorite characters and discover the new possibilities of AI | Freemium | [📄](./ai_characters/character-ai.md)
+| 67.5 | [*Janitor AI*](https://janitorai.com/login) | Chat with a wide range of characters, from celebrities to manga heroes | Freemium | [📄](./ai_characters/janitor-ai.md)	
+
 
 ### 🧸 AI Toys
 | Score | Product | Highlights | Price | Litepaper |
