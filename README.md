@@ -35,14 +35,15 @@
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
 | 9.5 | [DeepSeek-R1](https://deepseek.com) | Free, visible reasoning process, code generation | Free | [📄](./ai_agents/deepseek-r1.md) |
-| 8.5 | [Claude-3.5-sonnet](https://claude.ai) | Code generation, detailed analysis | Freemium | [📄](./ai_agents/claude-3-sonnet.md) |
+
 
 ### 👾 AI Games
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
-| 9.5 | [AI Town](https://www.convex.dev/ai-town) | Virtual city with AI interactions | Free | [📄](./ai_games/ai-town.md) |
-| 8.5 | [Hidden Door](https://www.hiddendoor.co/) | AI-driven RPG adventure | Paid | [📄](./ai_games/hidden-door.md) |
-| 8.0 | [AI Dungeon](https://aidungeon.com/) | Dynamic storytelling | Free | [📄](./ai_games/ai-dungeon.md) |
+| 79.84 | [Hidden Door](https://www.hiddendoor.co/) | AI-driven RPG adventure | Paid | [📄](./ai_games/hidden-door.md) |
+| 78.33 | [AI Dungeon](https://aidungeon.com/) | Dynamic storytelling | Free | [📄](./ai_games/ai-dungeon.md) |
+| 74.84 | [AI Town](https://www.convex.dev/ai-town) | Virtual city with AI interactions | Free | [📄](./ai_games/ai-town.md) |
+| 71.33 | [WebSim AI](https://websim.ai/) | Create websites, games, applications and more with AI | Free | [📄](./ai_games/websim-ai.md) |
 
 ### 💞 AI Characters
 | Score | Product | Highlights | Price | Litepaper |
