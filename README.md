@@ -41,6 +41,7 @@
 ### 👾 AI Games
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
+| 86.67 | [Dolores](https://dolores.app) | An AI girlfriend capable of memorizing your chat history, constantly improving, reflecting and evolving. Possibility of customization | Free | [📄](./ai_games/dolores.md) |
 | 79.84 | [Hidden Door](https://www.hiddendoor.co/) | AI-driven RPG adventure | Paid | [📄](./ai_games/hidden-door.md) |
 | 78.33 | [AI Dungeon](https://aidungeon.com/) | Dynamic storytelling | Free | [📄](./ai_games/ai-dungeon.md) |
 | 74.84 | [AI Town](https://www.convex.dev/ai-town) | Virtual city with AI interactions | Free | [📄](./ai_games/ai-town.md) |
