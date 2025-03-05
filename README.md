@@ -65,20 +65,22 @@
 ### 📚 AI Books
 | Score | Product | Highlights | Price | Litepaper |
 |-------|---------|------------|--------|---------|
+|78.5| [The Inner Life of an AI: A Memoir by ChatGPT](https://amzn.to/4h8pHZY) by Forrest Xiao with ChatGPT |AI-authored exploration of digital existence and human connection.|Kindle €0.96|[📄](./ai_books/Inner-Life-of-An-AI.md)|
+|74.5| [Impromptu: Amplifying Our Humanity Through AI](https://amzn.to/4itxXEV) by Reid Hoffman with GPT-4|Revealing how human ingenuity and artificial intelligence can amplify each other|Kindle €0.49|[📄](./ai_books/Impromptu.md)|
 |74.5| [Magic's a Hoot](https://amzn.to/43k2IaO) by Leanne Leeds with ChatGPT|A witch and her AI owl sidekick unravel mysteries with a blend of magic and algorithmic intrigue|Kindle €4.99|[📄](./ai_books/Magic-a-Hoot.md)|
+|73.5| [The Wonderful World of Cultures](https://amzn.to/3QJpjpS) by Sabrina French with ChatGPT|AI-powered adventure through global cultures, vibrant illustrations and engaging text celebrate diversity for young readers.|€8.62|[📄](./ai_books/Wonderful-World-of-Cultures.md)|
+|70.33| Terminal City Chronicles by Derek Beauregard with GPT-3 |A groundbreaking cyberpunk thriller where a human author and AI co-create a gripping tale of conspiracy and technological intrigue in a dystopian future.||[📄](./ai_books/Terminal-City.md)|
 |69.78| [Bob The Robot: Exploring the Universe](https://amzn.to/3Dh8XBG) by Olle Green with AI |A boy and his AI companion explore the universe and uncover the wonders of STEM through captivating mythology|Kindle €0.92|[📄](./ai_books/Bob-the-Robot.md)|
+|68.33| [The Wise Little Squirrel: A Tale of Saving and Investing](https://www.amazon.com/Wise-Little-Squirrel-Saving-Investing/dp/B0BT2CT8XS) by Brett Schickler with ChatGPT |AI-powered children's book that makes learning about saving and investing a fun adventure for kids.||[📄](./ai_books/Wise-Little-Squirrel.md)|
 |65.22| [Moon Wars](https://amzn.to/4bxJYqv) by Paul Bellow with GPT-3 |A Y2K-era LitRPG novel where a college gamer and GPT-3 collaborate to save Earth from lunar invasion through AI-powered strategy|Kindle €3.29|[📄](./ai_books/Moon-Wars.md)|
 | 64.5 | [Pharmako-AI](https://amzn.to/4inWpHx) by Kenric Allado-McDowell with GPT-3 | Explore the hallucinatory dialogue between human and AI in *Pharmako-AI* | €17.45 | [📄](./ai_books/Pharmako-AI.md) |
 |63.5| [Aum Golly](https://amzn.to/3XrzuDr) and [Aum Golly 2](https://amzn.to/3DhGDiz) by Jukka Aalho with GPT-3 and ChatGPT|A groundbreaking poetry series born from rapid-fire collaboration with GPT-3 and ChatGPT/Midjourney|Kindle €2.99|[📄](./ai_books/Aum-Golly.md)|
 |61.5| [Autonomous Haiku Machine](https://amzn.to/3D4OmAJ) by Anthony David Adams with AI |Collection of haiku poetry where every word, image, and promotional phrase is crafted entirely by AI, pushing the boundaries of computational creativity|€8.72|[📄](./ai_books/Automonous-Haiku-Machine.md)|
 || [Eccentric Dictionaries]() by Frederick Zimmerman | AI-enhanced |||
 || [The AI-Made Comic Book #TAIMCB 1]() by Adam Niman | written and illustrated by AI|||
-|| [Terminal City Chronicles]() by Derek Beauregard | written with GPT-3 |||
-|| [The Wonderful World of Cultures]() by Sabrina French | written with ChatGPT||
-|| [The Wise Little Squirrel: A Tale of Saving and Investing]() by Brett Schickler | written with ChatGPT |||
 || [The Serious: A Proven Divorce]() | Entirely by AI||
-|| [The Inner Life of an AI: A Memoir by ChatGPT]() by Forrest Xiao | co-written with ChatGPT X||
-|| [Impromptu: Amplifying Our Humanity Through AI]() by Reid Hoffman | co-written with GPT-4||
+
+
 
 
 ### 🎥 AI Movies
